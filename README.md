@@ -1,4 +1,4 @@
-![logo](https://github.com/abeerah77/abeerah77/blob/main/image%20copy.png)
+![logo](https://github.com/abeerah77/abeerah77/blob/main/image1.png)
 # Hey there! 👋
 
 I'm **Abeerah**, a Software Engineering student.

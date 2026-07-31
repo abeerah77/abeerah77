@@ -1,16 +1,23 @@
-## Hi there 👋
+![logo](https://github.com/abeerah77/abeerah77/blob/main/image%20copy.png)
+# Hey there! 👋
 
-<!--
-**abeerah77/abeerah77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Abeerah**, a Software Engineering student.
 
-Here are some ideas to get you started:
+I enjoy learning how software is built and turning ideas into simple, practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm exploring C++, front-end development, and Git while building projects to strengthen my skills.
+
+Skills that I've worked on are C++, HTML, CSS, JavaScript, Git & GitHub, Responsive Web Design, Content Writing.
+
+I've got a bunch of pinned projects, and my favorite is the Swrirl Donut Website. 
+
+Right now I am focusing on Data Structures & Algorithms, Object-Oriented Programming, Software Engineering, and Modern JavaScript
+
+## A Few Things About Me
+
+-  I enjoy building web projects.
+-  Always learning something new.
+-  I also enjoy reading and writing.
+-  My goal is to become a skilled Software Engineer.
+
+Thanks for stopping by! 😊
